@@ -44,3 +44,4 @@ g++ -std=c++11 fpv_detector.cpp -o fpv_detector `pkg-config --cflags --libs open
 - **'p'**: Toggle low-latency mode
 
 The system is designed for real-time performance with features specifically useful for FPV drone operations like target tracking, distance estimation, and minimal display latency. You can extend it further by adding features like GPS integration, autonomous navigation waypoints, or specific object tracking for drone racing or surveillance applications.
+c++
